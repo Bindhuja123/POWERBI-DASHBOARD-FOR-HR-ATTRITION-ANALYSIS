@@ -15,3 +15,5 @@ Employee attrition is a critical challenge for organizations, impacting producti
 *  Power BI
 *  DAX (Data Analysis Expressions)
 *  Data Preprocessing (Excel / Python / SQL)
+
+![Power BI Dashboard](dashboard.PNG)
